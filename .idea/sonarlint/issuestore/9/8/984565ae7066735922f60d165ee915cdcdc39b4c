@@ -1,0 +1,15 @@
+
+Z	java:S106="9Replace this use of System.out or System.err by a logger.(ĞÛœÖşÿÿÿÿ8¯«şğ•/
+E	java:S1084")Either remove or fill this block of code.(”ı¾8¯«şğ•/
+X	java:S125;"<This block of commented-out lines of code should be removed.(ŒÚøİ8¯«şğ•/
+X
+java:S1854";Remove this useless assignment to local variable "teclado".(ïü®Š8™œ¡ğ•/
+J
+java:S1604"(Make this anonymous inner class a lambda(€á€‹şÿÿÿÿ8Ú®¼ï•/
+g
+java:S2095"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(½À’§8ç‰´ï•/
+I
+java:S1481",Remove this unused "teclado" local variable.(ïü®Š8¯«şğ•/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¢¼˜üÿÿÿÿ8€’Úí•/
+S
+java:S1128"1Remove this unused import 'java.io.OutputStream'.(Ó ³ÿÿÿÿÿ8·•Õğ•/
